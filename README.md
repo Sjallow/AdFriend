@@ -1,0 +1,2 @@
+# AdFriend
+For chrome extensions
